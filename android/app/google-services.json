@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655195445652",
+    "project_id": "xasusqore-9e6d0",
+    "storage_bucket": "xasusqore-9e6d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655195445652:android:e5e3e3b552da25c7b09781",
+        "android_client_info": {
+          "package_name": "com.example.xasus__qore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jIUpoVX5-29HS9wPv2-yvvPFWFh8fuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
